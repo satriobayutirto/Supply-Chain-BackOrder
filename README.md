@@ -7,3 +7,7 @@ There missing value in average performance as -99 %, that value will be replaced
 
 The forcasting column will be droped
 
+There multicol column and we will combine
+
+
+
